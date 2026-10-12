@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  IoT Engineer focused on the complete lifecycle of connected devices—bridging low-level embedded firmware with scalable cloud architectures. Experienced in building resilient edge devices under real-time constraints and designing high-throughput, concurrent backend services for large-scale device fleets.
+  IoT Engineer focused on the complete lifecycle of connected devices—bridging low-level embedded firmware with scalable cloud architectures. Experienced in building resilient edge devices under real-time constraints and dbuilding concurrent backend services for connected devices and telemetry workflows.
 </p>
 
 <br />
@@ -22,13 +22,13 @@
         <li><strong>Reliability:</strong> Automated validation and firmware verification through <strong>Hardware-in-the-Loop (HIL)</strong> testing.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>☁️ High-Demand Backend & Cloud</h3>
+        <td width="50%" valign="top">
+      <h3>☁️ Backend & Cloud</h3>
       <ul>
-        <li><strong>Concurrent Services:</strong> Architecting high-throughput, reliable backend systems in <strong>Rust</strong> and <strong>Go</strong> to sustain heavy device traffic.</li>
-        <li><strong>Telemetry Ingestion:</strong> Building robust ingestion pipelines capable of processing continuous data streams with backpressure control.</li>
-        <li><strong>Edge-to-Cloud Integration:</strong> Complete device lifecycle management—from secure device provisioning and authentication (mTLS) to real-time event distribution.</li>
-        <li><strong>System Architecture:</strong> Distributed communication, data durability, and scalable microservices on Linux.</li>
+        <li><strong>Concurrent Services:</strong> Building reliable, concurrent services in <strong>Rust</strong> and <strong>Go</strong> focused on low-latency processing and efficient resource usage.</li>
+        <li><strong>Telemetry Ingestion:</strong> Developing pipelines to ingest, validate, and store continuous sensor streams with backpressure handling.</li>
+        <li><strong>Device Integration:</strong> Managing the end-to-end device flow—from secure provisioning and authentication (mTLS) to real-time event routing.</li>
+        <li><strong>System Architecture:</strong> Designing modular services, structured APIs, and asynchronous communication patterns on Linux.</li>
       </ul>
     </td>
   </tr>
@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td width="25%"><strong>Backend & Systems</strong></td>
-    <td><code>Rust</code> · <code>Go</code> · <code>High-Throughput Services</code> · <code>Concurrency Models</code> · <code>System Design</code> · <code>Linux</code></td>
+    <td><code>Rust</code> · <code>Go</code> · <code>Concurrent Services</code> · <code>Concurrency Models</code> · <code>System Design</code> · <code>Linux</code></td>
   </tr>
   <tr>
     <td width="25%"><strong>Protocols & Integration</strong></td>
@@ -63,11 +63,11 @@
 
 <!-- CONTACT / CONNECT -->
 <p align="left">
-  <a href="https://www.linkedin.com/in/jehoyosv" target="_blank">
+  <a href="www.linkedin.com/in/jehoyosv">
     <img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:jhoyos.marual@gmail.com">
+  <a href="jhoyos.marual@gmail.com">
     <img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
